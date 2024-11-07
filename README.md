@@ -1,3 +1,15 @@
+Name : ANUJ SISODIYA
+
+Compnay : CODETECH IT SOLUTION
+
+ID : CT6WDS1970
+
+Domain : MACHINE LEARNING
+
+Duration : September to November 2024
+
+Mentor : Neela Santhosh Kumar
+
 # Credit-Card-Fraud-Detection-Using-Machine-Learning
 
  ## ABSTRACT
